@@ -85,7 +85,6 @@ public class HTTPURLConnectionClient {
 	}
 
 	// HTTP POST request
-	//Not used here
 	private void sendPost() throws Exception {
 
 		String url = "https://selfsolve.apple.com/wcResults.do";
